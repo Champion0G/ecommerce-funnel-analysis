@@ -112,7 +112,7 @@ Page View → Add to Cart → Purchase
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](updated-dashboard.png)
 
 ---
 
