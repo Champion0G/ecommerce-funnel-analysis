@@ -123,3 +123,4 @@ Page View → Add to Cart → Purchase
 - Revenue impact quantification
 - Power BI DAX measures and dashboard design
 - Business recommendation framing
+- Generative AI to optimize the base dashboard from PowerBI
